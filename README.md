@@ -1,0 +1,2 @@
+# Piano
+ Criei um piano interativo usando HTML, CSS e JavaScript, que permite aos usuários tocar notas musicais diretamente na página. O piano é composto por teclas visíveis e responsivas, que podem ser clicadas ou acionadas através do teclado do computador. A cada tecla pressionada, um som correspondente é reproduzido, proporcionando uma experiência musical simples e divertida. O design foi feito com CSS, criando uma interface visualmente agradável, enquanto o JavaScript foi responsável pela interação e pela reprodução dos sons.
